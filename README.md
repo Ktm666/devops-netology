@@ -4,3 +4,4 @@ First line
 с расширением .tfstate и .tfstate. и аналогично с файлами *.tfvars,
 *.tfvars.json, override.tf, override.tf.json, *_override.tf, *_override.tf.json,
 .terraformrc, terraform.rc
+New line tag
