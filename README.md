@@ -15,16 +15,18 @@
   -Pull, потому что отсутствует точка отказа и данные для доступа
 
 
-3. `dmitry@HP:~/Загрузки$ vboxmanage -v
+3. dmitry@HP:~/Загрузки$ vboxmanage -v
 6.1.48_Ubuntur159471
+
 dmitry@HP:~/Загрузки$ vagrant -v
 Vagrant 2.3.4
+
 dmitry@HP:~/Загрузки$ terraform -v
 Terraform v1.5.7
 on linux_amd64
-
 Your version of Terraform is out of date! The latest version
 is 1.7.2. You can update by downloading from https://www.terraform.io/downloads.html
+
 dmitry@HP:~/Загрузки$ ansible --version
 ansible [core 2.15.9]
 config file = /etc/ansible/ansible.cfg
@@ -34,4 +36,4 @@ ansible collection location = /home/dmitry/.ansible/collections:/usr/share/ansib
 executable location = /usr/bin/ansible
 python version = 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0] (/usr/bin/python3)
 jinja version = 3.0.3
-libyaml = True`
+libyaml = True
